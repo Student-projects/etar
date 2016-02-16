@@ -6,7 +6,7 @@ developed as a project within the scope of the course "Software Engineering
 Laboratory: Open-Source EiffelStudio" at ETH Zurich in autumn semester 2015.
 
 For more information you are invited to visit the
-[wiki](https://github.com/ntruessel/etar/wiki).
+[documentation](doc/README.md).
 
 ## Provided archives
 The archive folder contains some archives. For a detailed description, view
