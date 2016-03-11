@@ -1,5 +1,6 @@
 Welcome to the etar wiki!
 
+Project page: https://github.com/eiffelhub/etar
 
 ### Introduction
 The etar library was developed as a project within the scope of the course "Software Engineering Laboratory: Open-Source EiffelStudio" at ETH Zurich, attended by Nicolas Trüssel and supervised by Jocelyn Fiat. The goal of the project was to add archiving support to the Eiffel programming language through a library. During the initial project discussion it was then decided to use the tar archive format and that the library should be written in pure Eiffel (no wrapping of existing solutions). The etar library was written and designed from scratch, since I (Nicolas Trüssel) did not find any existing archiving solutions for Eiffel.
